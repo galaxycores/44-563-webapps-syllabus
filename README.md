@@ -1,4 +1,4 @@
-# [44-563 Developing Web Apps and Services Syllabus](https://denisecase.github.io/44-563-webapps-syllabus)
+## [44-563 Developing Web Apps and Services Syllabus](https://denisecase.github.io/44-563-webapps-syllabus)
 
 ![CI](https://github.com/denisecase/44-563-webapps-syllabus/workflows/CI/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf28398117374422ab14e715916852fb)](https://www.codacy.com/manual/denisecase/44-563-webapps-syllabus?utm_source=github.com&utm_medium=referral&utm_content=denisecase/44-563-webapps-syllabus&utm_campaign=Badge_Grade)
